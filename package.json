@@ -9,15 +9,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/EdenKhaos/12-mysql-employee-tracker.git"
+      "url": "git+https://github.com/Jackson24391/Module-12-Employee-Tracker.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/EdenKhaos/12-mysql-employee-tracker/issues"
+      "url": "https://github.com/Jackson24391/Module-12-Employee-Tracker"
     },
-    "homepage": "https://github.com/EdenKhaos/12-mysql-employee-tracker#readme",
+    "homepage": "https://github.com/Jackson24391/Module-12-Employee-Tracker",
     "dependencies": {
       "console.table": "^0.10.0",
       "inquirer": "^7.3.3",
